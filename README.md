@@ -1,6 +1,6 @@
 ## Hi there,
 My name is Paul I am a radio amateur callsign PA0PHH. I got my license in 1981 and at the same time got bitten by the personal computer bug.
-I started development on a RCA 1802 MCU, Atari ST, Windows PC and later on LINUX in C, C++, Java etc.
+I started development on a RCA 1802 MCU, Atari ST, Windows PC, PDP11, VAX VMS and later on LINUX in C, C++, Java etc.
 I love to develop software for raspberry pi using LVGL GUI library.
 In my professional live I work for a large telecom software vendor helping telco's to mananage their telco network. 
 
