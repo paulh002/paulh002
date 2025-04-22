@@ -4,6 +4,10 @@ I started development on a RCA 1802 MCU, Atari ST, Windows PC and later on LINUX
 I love to develop software for raspberry pi using LVGL GUI library.
 In my professional live I work for a large telecom software vendor helping telco's to mananage their telco network. 
 
+My main project is sdrberry a raspberry pi sdr tranceiver, capable to manage SoapySDR SDR devices. 
+You can check it out on youtube. https://youtu.be/ycU_IUmV8j4
+
+
 73,
 Paul
 
